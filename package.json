@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-starter",
+  "name": "playground-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
